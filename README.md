@@ -1,2 +1,2 @@
 # plugin-orcamento-word-press
-Plugin de orçamentos para WooCommerce - WordPress
+Plugin de orçamentos para WooCommerce - Dental Mesh https://www.dentalmesh.net.br/
